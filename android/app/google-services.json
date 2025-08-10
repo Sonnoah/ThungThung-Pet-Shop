@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425380551428",
+    "project_id": "thungthung-c21fe",
+    "storage_bucket": "thungthung-c21fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425380551428:android:3f682bd926d0980dedce51",
+        "android_client_info": {
+          "package_name": "com.thungthung.thungthung"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANLxKEXM-2UnXRoeGjOVsvtFCxPrB6Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
